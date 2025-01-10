@@ -1,0 +1,1 @@
+# jamesx-pure-go-publish-test
